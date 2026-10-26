@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#0f172a"/>
+  <!-- Barcode Scanner Frame Accent -->
+  <rect x="70" y="70" width="372" height="372" rx="40" fill="#1e293b" stroke="#334155" stroke-width="4"/>
+  <!-- Scanner Laser Line -->
+  <line x1="80" y1="256" x2="432" y2="256" stroke="#10b981" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+  <!-- Barcode Bars -->
+  <rect x="130" y="140" width="16" height="232" rx="4" fill="#f8fafc"/>
+  <rect x="160" y="140" width="8" height="232" rx="3" fill="#f8fafc"/>
+  <rect x="180" y="140" width="24" height="232" rx="4" fill="#f8fafc"/>
+  <rect x="220" y="140" width="12" height="232" rx="3" fill="#f8fafc"/>
+  <rect x="246" y="140" width="28" height="232" rx="4" fill="#f8fafc"/>
+  <rect x="290" y="140" width="10" height="232" rx="3" fill="#f8fafc"/>
+  <rect x="312" y="140" width="20" height="232" rx="4" fill="#f8fafc"/>
+  <rect x="346" y="140" width="14" height="232" rx="3" fill="#f8fafc"/>
+  <rect x="372" y="140" width="10" height="232" rx="3" fill="#f8fafc"/>
+  <!-- Corner Finder Targets -->
+  <path d="M100 130 V100 H130" stroke="#10b981" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M412 130 V100 H382" stroke="#10b981" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M100 382 V412 H130" stroke="#10b981" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <path d="M412 382 V412 H382" stroke="#10b981" stroke-width="8" stroke-linecap="round" fill="none"/>
+</svg>
